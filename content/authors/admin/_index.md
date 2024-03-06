@@ -36,15 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electrical Engineering
+      institution: University of South Florida
+      year: 2026
+    - course: MS in Electrical and Computer Engineering
+      institution: Univerisity of Florida
+      year: 2021
+    - course: BSc in Optoelectronics Information Science and Engineering
+      institution: Hefei University of Technology
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Wenwei Zhao is a Ph.D. student in the Department of Electrical Engineering, University of South Florida advised by Dr. Zhuo Lu in the CSA lab.
 {style="text-align: justify;"}
