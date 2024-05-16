@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: "PCB component detection using computer vision for hardware assurance"
 authors:
-- admin
-- Robert Ford
+- Wenwei Zhao
+- Suprith Reddy Gurudu, Shayan Taheri, Shajib Ghosh, Mukhil Azhagan Mallaiyan Sathiaseelan, Navid Asadizanjani
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
