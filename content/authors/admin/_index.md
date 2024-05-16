@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wenwei Zhaooo
+title: Wenwei Zhao
 
 # Name pronunciation (optional)
 #name_pronunciation: Wenwei Zhao
