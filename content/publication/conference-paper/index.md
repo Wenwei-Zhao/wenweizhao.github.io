@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Detecting Adversarial Spectrum Attacks via Distance to Decision Boundary Statistics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
