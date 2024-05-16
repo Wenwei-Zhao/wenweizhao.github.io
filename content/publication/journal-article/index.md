@@ -33,7 +33,7 @@ abstract: This study explores the benefits and limitations of a variety of commo
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.mdpi.com/2504-2289/6/2/39
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
