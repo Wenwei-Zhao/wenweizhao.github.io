@@ -200,6 +200,7 @@ sections:
     design:
       columns: '2'
       view: card
+
   - block: collection
     content:
       title: Recent Publications
@@ -214,6 +215,7 @@ sections:
     design:
       columns: '2'
       view: citation
+
 #  - block: collection
 #    id: talks
 #    content:
