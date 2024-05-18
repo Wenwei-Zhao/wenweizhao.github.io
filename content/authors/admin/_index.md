@@ -120,6 +120,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Wenwei Zhao is a Ph.D. student in the Department of Electrical Engineering, University of South Florida advised by Dr. Zhuo Lu in the CSA lab.
+I am a Ph.D. student in the Department of Electrical Engineering, University of South Florida advised by Dr. Zhuo Lu in the CSA lab.
 {style="text-align: justify;"}
