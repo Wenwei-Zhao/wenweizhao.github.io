@@ -94,7 +94,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'wenweizho@usf.edu'
+    link: wenweizho@usf.edu
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
