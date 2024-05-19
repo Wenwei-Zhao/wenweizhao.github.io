@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 publication: "Open Journal of Discrete Mathematics"
 publication_short: "Open Journal of Discrete Mathematics"
 
-abstract: This study explores the benefits and limitations of a variety of common computer vision-based features for the task of PCB component detection. The study results indicate that color features demonstrate promising performance for PCB component detection. The purpose of this paper is to facilitate collaboration between the hardware assurance, computer vision, and machine learning communities.
+#abstract: This study explores the benefits and limitations of a variety of common computer vision-based features for the task of PCB component detection. The study results indicate that color features demonstrate promising performance for PCB component detection. The purpose of this paper is to facilitate collaboration between the hardware assurance, computer vision, and machine learning communities.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
