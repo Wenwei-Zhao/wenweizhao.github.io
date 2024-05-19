@@ -18,8 +18,8 @@ doi: "10.4236/ojdm.2018.83006"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Big Data and Cognitive Computing"
-publication_short: "MDPI"
+publication: "Open Journal of Discrete Mathematics"
+publication_short: "Open Journal of Discrete Mathematics"
 
 abstract: This study explores the benefits and limitations of a variety of common computer vision-based features for the task of PCB component detection. The study results indicate that color features demonstrate promising performance for PCB component detection. The purpose of this paper is to facilitate collaboration between the hardware assurance, computer vision, and machine learning communities.
 
