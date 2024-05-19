@@ -65,6 +65,7 @@ features:
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
+    highlight_superuser = true
   math:
     enable: false
   privacy_pack:
