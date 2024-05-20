@@ -19,7 +19,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Big Data and Cognitive Computing"
-publication_short: "MDPI"
+publication_short: "Big Data and Cognitive Computing"
 
 abstract: This study explores the benefits and limitations of a variety of common computer vision-based features for the task of PCB component detection. The study results indicate that color features demonstrate promising performance for PCB component detection. The purpose of this paper is to facilitate collaboration between the hardware assurance, computer vision, and machine learning communities.
 
