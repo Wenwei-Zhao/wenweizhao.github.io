@@ -2,7 +2,7 @@
 title: "Cyclically Interval Total Coloring of the One Point Union of Cycles"
 authors:
 - Shijun Su
-- Yongqiang Zhao
+- Wenwei Zhao, Yongqiang Zhao
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
