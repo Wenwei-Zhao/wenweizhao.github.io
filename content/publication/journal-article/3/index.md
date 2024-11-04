@@ -1,7 +1,6 @@
 ---
 title: "Understanding the Ineffectiveness of the Transfer Attack in Intrusion Detection System"
 authors:
-
 - Rui Duan, Wenwei Zhao, Zhengping Jay Luo, Ning Wang, Yao Liu, Zhuo Lu
 #author_notes:
 #- "Equal contribution"
