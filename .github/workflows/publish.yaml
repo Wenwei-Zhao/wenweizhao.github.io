@@ -1,7 +1,13 @@
-name: Deploy website to GitHub Pages
+#name: Deploy website to GitHub Pages
 
+#env:
+#  WC_HUGO_VERSION: '0.123.3'
+
+name: Build with Hugo
 env:
-  WC_HUGO_VERSION: '0.123.3'
+  HUGO_ENVIRONMENT: production
+run: hugo --minify --baseURL "https://wenweizhao.github.io/"
+
 
 on:
   # Trigger the workflow every time you push to the `main` branch
